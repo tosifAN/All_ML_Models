@@ -78,13 +78,13 @@ cd All_ML_Models
 Ensure you have the required dependencies installed. You can install them using:
 pip install -r requirements.txt
 
-📚 Usage
+## 📚 Usage
 Instructions on how to use each model will be provided in the respective model folders. Please refer to the README files within each folder for detailed usage.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for more information on how to contribute.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
