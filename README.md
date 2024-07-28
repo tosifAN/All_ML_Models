@@ -11,15 +11,14 @@ Welcome to the Machine Learning Models Repository! This repository contains impl
 - [License](#-license)
 
 ## ✅ Completed Models
-- Simple Regression
+- Simple Regression(Linear)
 - Multiple Regression
 - Polynomial Regression
-
-## 🚧 Models In Progress
-- Linear Regression
 - Ridge Regression
 - Lasso Regression
 - Elastic Net Regression
+
+## 🚧 Models In Progress
 - Logistic Regression
 - Decision Trees
 - Random Forest
