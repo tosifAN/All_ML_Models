@@ -28,19 +28,21 @@ Regression analysis is a powerful tool used in machine learning to predict the v
     - Description: Polynomial regression is a form of regression analysis where the relationship between the independent variable and the dependent variable is modeled as an nth degree polynomial.
     - Status: Completed
 
-## Models in Progress
-
 1. **Ridge Regression**
     - Description: Ridge regression is a technique used when data suffers from multicollinearity (independent variables are highly correlated). It adds a degree of bias to the regression estimates, reducing standard errors.
-    - Status: Not Started
+    - Status: Completed
 
 2. **Lasso Regression**
     - Description: Lasso regression is similar to ridge regression but with L1 regularization. It can shrink some coefficients to zero, effectively selecting a simpler model.
-    - Status: Not Started
+    - Status: Completed
 
 3. **Elastic Net Regression**
     - Description: Elastic net regression combines the properties of both ridge and lasso regressions. It is useful when there are multiple features that are correlated with one another.
-    - Status: Not Started
+    - Status: Completed
+
+4. **Robust Regression8**
+    - Robust regression is a form of regression analysis designed to overcome some limitations of traditional parametric and non-parametric methods. Robust regression methods are designed to be not overly affected by violations of assumptions by the underlying data-generating process.
+    - Status: Completed
 
 ## Installation
 
@@ -55,6 +57,11 @@ $ cd All_ML_Models
 
 # Install dependencies
 $ pip install -r requirements.txt
+
+
+## Dataset Link 
+
+2->https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 
 ## Contributing
