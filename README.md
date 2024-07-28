@@ -17,9 +17,9 @@ Welcome to the Machine Learning Models Repository! This repository contains impl
 - Ridge Regression
 - Lasso Regression
 - Elastic Net Regression
+- Logistic Regression
 
 ## 🚧 Models In Progress
-- Logistic Regression
 - Decision Trees
 - Random Forest
 - Gradient Boosting Machines (GBM)

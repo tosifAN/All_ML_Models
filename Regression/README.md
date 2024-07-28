@@ -43,6 +43,10 @@ Regression analysis is a powerful tool used in machine learning to predict the v
 4. **Robust Regression8**
     - Robust regression is a form of regression analysis designed to overcome some limitations of traditional parametric and non-parametric methods. Robust regression methods are designed to be not overly affected by violations of assumptions by the underlying data-generating process.
     - Status: Completed
+    
+4. **Logistic Regression8**
+     - Logistic regression is a statistical method used for binary classification that predicts the probability of a binary outcome based on one or more predictor variables. Unlike linear regression, which predicts a continuous output, logistic regression outputs a probability value between 0 and 1, which can then be thresholded to classify the input data into two distinct categories.
+    - Status: Completed
 
 ## Installation
 
@@ -63,6 +67,7 @@ $ pip install -r requirements.txt
 
 2->https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
+3->https://www.kaggle.com/datasets/dragonheir/logistic-regression
 
 ## Contributing
 
