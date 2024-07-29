@@ -12,12 +12,12 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 
 ## ✅ Completed Models
 - Simple Regression(Linear) ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Predicts a continuous outcome based on a single feature.
-- Multiple Regression ([Link to Folder](folder_path)) - Predicts a continuous outcome based on multiple features.
-- Polynomial Regression ([Link to Folder](folder_path)) - Captures non-linear relationships between features and the outcome.
-- Ridge Regression([Link to Folder](folder_path)): Addresses overfitting by introducing L2 regularization to the linear regression model.
-- Lasso Regression([Link to Folder](folder_path)): Performs feature selection and regularization by adding L1 penalty to the linear regression model.
-- Elastic Net Regression([Link to Folder](folder_path)): Combines the strengths of Ridge and Lasso regression by using both L1 and L2 penalties.
-- Logistic Regression([Link to Folder](folder_path)): Predicts the probability of a binary outcome (e.g., yes/no, spam/not spam).
+- Multiple Regression ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Predicts a continuous outcome based on multiple features.
+- Polynomial Regression ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Captures non-linear relationships between features and the outcome.
+- Ridge Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Addresses overfitting by introducing L2 regularization to the linear regression model.
+- Lasso Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Performs feature selection and regularization by adding L1 penalty to the linear regression model.
+- Elastic Net Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Combines the strengths of Ridge and Lasso regression by using both L1 and L2 penalties.
+- Logistic Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Predicts the probability of a binary outcome (e.g., yes/no, spam/not spam).
 - Decision Trees([Link to Folder](folder_path)): Creates a tree-like model of decisions and their possible consequences.
 - Random Forest([Link to Folder](folder_path)): An ensemble method that combines multiple decision trees to improve accuracy and reduce overfitting.
 - Gradient Boosting Machines (GBM)([Link to Folder](folder_path)): An ensemble method that builds models sequentially, where each model attempts to correct the errors of the previous model.
