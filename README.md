@@ -11,7 +11,7 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 - [License](#-license)
 
 ## ✅ Completed Models
-- Simple Regression(Linear) ([Link to Folder]([folder_path](https://github.com/tosifAN/All_ML_Models/tree/main/Regression))) - Predicts a continuous outcome based on a single feature.
+- Simple Regression(Linear) ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Predicts a continuous outcome based on a single feature.
 - Multiple Regression ([Link to Folder](folder_path)) - Predicts a continuous outcome based on multiple features.
 - Polynomial Regression ([Link to Folder](folder_path)) - Captures non-linear relationships between features and the outcome.
 - Ridge Regression([Link to Folder](folder_path)): Addresses overfitting by introducing L2 regularization to the linear regression model.
