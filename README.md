@@ -1,8 +1,8 @@
-# 📊 Machine Learning Models Repository
+#  Machine Learning Models Repository
 
-Welcome to the Machine Learning Models Repository! This repository contains implementations of various machine learning models. Below is the list of models along with their completion status.
+Welcome to the Machine Learning Models Repository! This repository contains various machine learning models and their code. Below is the list of models along with their completion status.
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Completed Models](#-completed-models)
 - [Models In Progress](#-models-in-progress)
 - [Installation](#-installation)
@@ -11,23 +11,22 @@ Welcome to the Machine Learning Models Repository! This repository contains impl
 - [License](#-license)
 
 ## ✅ Completed Models
-- Simple Regression(Linear)
-- Multiple Regression
-- Polynomial Regression
-- Ridge Regression
-- Lasso Regression
-- Elastic Net Regression
-- Logistic Regression
+- Simple Regression(Linear) ([Link to Folder](folder_path)) - Predicts a continuous outcome based on a single feature.
+- Multiple Regression ([Link to Folder](folder_path)) - Predicts a continuous outcome based on multiple features.
+- Polynomial Regression ([Link to Folder](folder_path)) - Captures non-linear relationships between features and the outcome.
+- Ridge Regression([Link to Folder](folder_path)): Addresses overfitting by introducing L2 regularization to the linear regression model.
+- Lasso Regression([Link to Folder](folder_path)): Performs feature selection and regularization by adding L1 penalty to the linear regression model.
+- Elastic Net Regression([Link to Folder](folder_path)): Combines the strengths of Ridge and Lasso regression by using both L1 and L2 penalties.
+- Logistic Regression([Link to Folder](folder_path)): Predicts the probability of a binary outcome (e.g., yes/no, spam/not spam).
+- Decision Trees([Link to Folder](folder_path)): Creates a tree-like model of decisions and their possible consequences.
+- Random Forest([Link to Folder](folder_path)): An ensemble method that combines multiple decision trees to improve accuracy and reduce overfitting.
+- Gradient Boosting Machines (GBM)([Link to Folder](folder_path)): An ensemble method that builds models sequentially, where each model attempts to correct the errors of the previous model.
+- XGBoost, LightGBM, CatBoost([Link to Folder](folder_path)): Efficient and scalable implementations of gradient boosting with various optimizations.
+- Support Vector Machines (SVM)([Link to Folder](folder_path)): Finds the optimal hyperplane to separate data points into different classes.
+- K-Nearest Neighbors (KNN)([Link to Folder](folder_path)): Classifies new data points based on the majority class of its k nearest neighbors.
 
-## 🚧 Models In Progress
-- Decision Trees
-- Random Forest
-- Gradient Boosting Machines (GBM)
-- XGBoost
-- LightGBM
-- CatBoost
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
+##  Models In Progress
+
 - Principal Component Analysis (PCA)
 - Independent Component Analysis (ICA)
 - Non-Negative Matrix Factorization (NMF)
@@ -66,25 +65,17 @@ Welcome to the Machine Learning Models Repository! This repository contains impl
 - Markov Chains
 - Reinforcement Learning Models (Q-Learning, SARSA, Policy Gradient)
 
-## 🛠 Installation
+##  Installation
 
-To get started, clone the repository:
+**Refer to individual model folders for specific installation requirements.** 
 
-```bash
-git clone https://github.com/tosifAN/All_ML_Models.git
-cd All_ML_Models
-
-Ensure you have the required dependencies installed. You can install them using:
-pip install -r requirements.txt
-
-## 📚 Usage
+##  Usage
 Instructions on how to use each model will be provided in the respective model folders. Please refer to the README files within each folder for detailed usage.
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for more information on how to contribute.
 
-## 📜 License
+##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-You can copy and paste this markdown code into your `README.md` file in your repository. This should make it visually appealing and easy to navigate.
+##  Thanks

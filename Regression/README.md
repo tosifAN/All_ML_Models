@@ -50,36 +50,21 @@ Regression analysis is a powerful tool used in machine learning to predict the v
 
 ## Installation
 
-To clone and run this repository, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
+   1. Clone the repository:
+      ```bash
+      git clone https://github.com/tosifAN/All_ML_Models.gi
 
-```bash
-# Clone this repository
-$ git clone https://github.com/tosifAN/All_ML_Models.git
+   2. Install the required libraries:
+      ```bash
+      pip install -r requirements.txt
 
-# Go into the repository
-$ cd All_ML_Models
-
-# Install dependencies
-$ pip install -r requirements.txt
-
-
-## Dataset Link 
-
-2->https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
-
-3->https://www.kaggle.com/datasets/dragonheir/logistic-regression
+   3. Run Jupyter Notebook:
+      ```bash
+      jupyter notebook
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss what you would like to change.
+   See CONTRIBUTING.md for guidelines on how to contribute to this repository.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-
-License
-Distributed under the MIT License. See LICENSE for more information.
-
-Feel free to add more details to the "Usage" section as needed!
+## Dataset 
+   Links to the datasets are mentioned at the top of each notebook.

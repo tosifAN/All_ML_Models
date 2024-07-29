@@ -1,14 +1,37 @@
-When focusing specifically on decision tree models, there are two primary types:
+# Decision Tree
+## Table of Contents
+- [Introduction](#introduction)
+- [Completed Models](#completed-models)
+- [Models in Progress](#models-in-progress)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
-Classification Trees:
+## Introduction
 
-Classification and Regression Tree (CART): The most commonly used algorithm, which can handle both classification and regression tasks. For classification, it splits the data into subsets based on the most significant predictor variables.
-ID3 (Iterative Dichotomiser 3): An early algorithm that uses entropy and information gain to create the decision tree.
-C4.5: An extension of ID3 that can handle both categorical and continuous data, as well as missing values.
-C5.0: An improved version of C4.5, providing faster performance and better memory efficiency.
-Regression Trees:
+  A decision tree is a flowchart-like structure used to make decisions or predictions. It consists of nodes representing decisions or tests on attributes, branches representing the outcome of these decisions, and leaf nodes representing final outcomes or predictions.
 
-CART (Classification and Regression Tree): The same algorithm used for classification trees can also be applied to regression tasks. For regression, it predicts continuous values by splitting the data into subsets that minimize the sum of squared deviations from the mean in each subset.
+## Completed Models
+ 
+ - Decision Tree
 
+## Installation
 
-These models represent the core types of decision trees, each with specific methods for splitting data and handling different types of variables.
+   1. Clone the repository:
+      ```bash
+      git clone https://github.com/tosifAN/All_ML_Models.gi
+
+   2. Install the required libraries:
+      ```bash
+      pip install -r requirements.txt
+
+   3. Run Jupyter Notebook:
+      ```bash
+      jupyter notebook
+
+## Contributing
+
+   See CONTRIBUTING.md for guidelines on how to contribute to this repository.
+
+## Dataset 
+   Links to the datasets are mentioned at the top of each notebook.
