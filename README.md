@@ -11,19 +11,19 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 - [License](#-license)
 
 ## ✅ Completed Models
-- Simple Regression(Linear) ([Link to Folder](folder_path)) - Predicts a continuous outcome based on a single feature.
-- Multiple Regression ([Link to Folder](folder_path)) - Predicts a continuous outcome based on multiple features.
-- Polynomial Regression ([Link to Folder](folder_path)) - Captures non-linear relationships between features and the outcome.
-- Ridge Regression([Link to Folder](folder_path)): Addresses overfitting by introducing L2 regularization to the linear regression model.
-- Lasso Regression([Link to Folder](folder_path)): Performs feature selection and regularization by adding L1 penalty to the linear regression model.
-- Elastic Net Regression([Link to Folder](folder_path)): Combines the strengths of Ridge and Lasso regression by using both L1 and L2 penalties.
-- Logistic Regression([Link to Folder](folder_path)): Predicts the probability of a binary outcome (e.g., yes/no, spam/not spam).
-- Decision Trees([Link to Folder](folder_path)): Creates a tree-like model of decisions and their possible consequences.
-- Random Forest([Link to Folder](folder_path)): An ensemble method that combines multiple decision trees to improve accuracy and reduce overfitting.
-- Gradient Boosting Machines (GBM)([Link to Folder](folder_path)): An ensemble method that builds models sequentially, where each model attempts to correct the errors of the previous model.
-- XGBoost, LightGBM, CatBoost([Link to Folder](folder_path)): Efficient and scalable implementations of gradient boosting with various optimizations.
-- Support Vector Machines (SVM)([Link to Folder](folder_path)): Finds the optimal hyperplane to separate data points into different classes.
-- K-Nearest Neighbors (KNN)([Link to Folder](folder_path)): Classifies new data points based on the majority class of its k nearest neighbors.
+- Simple Regression(Linear) ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Predicts a continuous outcome based on a single feature.
+- Multiple Regression ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Predicts a continuous outcome based on multiple features.
+- Polynomial Regression ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)) - Captures non-linear relationships between features and the outcome.
+- Ridge Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Addresses overfitting by introducing L2 regularization to the linear regression model.
+- Lasso Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Performs feature selection and regularization by adding L1 penalty to the linear regression model.
+- Elastic Net Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Combines the strengths of Ridge and Lasso regression by using both L1 and L2 penalties.
+- Logistic Regression([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Regression)): Predicts the probability of a binary outcome (e.g., yes/no, spam/not spam).
+- Decision Trees([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/DecisionTree)): Creates a tree-like model of decisions and their possible consequences.
+- Random Forest([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Bagging)): An ensemble method that combines multiple decision trees to improve accuracy and reduce overfitting.
+- Gradient Boosting Machines (GBM)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Bosting)): An ensemble method that builds models sequentially, where each model attempts to correct the errors of the previous model.
+- XGBoost, LightGBM, CatBoost([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Bosting)): Efficient and scalable implementations of gradient boosting with various optimizations.
+- Support Vector Machines (SVM)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/SVM)): Finds the optimal hyperplane to separate data points into different classes.
+- K-Nearest Neighbors (KNN)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/KNN)): Classifies new data points based on the majority class of its k nearest neighbors.
 
 ##  Models In Progress
 

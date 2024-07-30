@@ -1,4 +1,4 @@
-🎉 Contributing to All_ML_Models
+##  🎉 Contributing to All_ML_Models
 Thank you for considering contributing to the All_ML_Models repository! Here are some guidelines to help you get started.
 
 🚀 How to Contribute
