@@ -8,7 +8,7 @@ This repository contains implementations of various regression models in Python.
 - [Models in Progress](#models-in-progress)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
