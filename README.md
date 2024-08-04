@@ -30,9 +30,9 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 - XGBoost, LightGBM, CatBoost([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Bosting)): Efficient and scalable implementations of gradient boosting with various optimizations.
 - Support Vector Machines (SVM)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/SVM)): Finds the optimal hyperplane to separate data points into different classes.
 - K-Nearest Neighbors (KNN)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/KNN)): Classifies new data points based on the majority class of its k nearest neighbors.
-- Principal Component Analysis (PCA)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/PCA)): Reduces the dimensionality of data while retaining most of the variance.
-- Independent Component Analysis (ICA)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/PCA)): Separates a multivariate signal into additive, independent components.
-- Non-Negative Matrix Factorization (NMF)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/PCA)): Factorizes a matrix into non-negative matrices to extract latent features.
+- Principal Component Analysis (PCA)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Dimensionality_Reduction)): Reduces the dimensionality of data while retaining most of the variance.
+- Independent Component Analysis (ICA)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Dimensionality_Reduction)): Separates a multivariate signal into additive, independent components.
+- Non-Negative Matrix Factorization (NMF)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Dimensionality_Reduction)): Factorizes a matrix into non-negative matrices to extract latent features.
 - Gaussian Mixture Models (GMM)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): Models data as a mixture of multiple Gaussian distributions.
 - K-Means Clustering([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): Partitions data into k clusters by minimizing the variance within each cluster.
 - Mean Shift Clustering([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): A non-parametric clustering technique that shifts data points towards the mode of the distribution.
