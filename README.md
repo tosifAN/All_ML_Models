@@ -1,8 +1,8 @@
-# Welcome !
+# Welcome!
 
-![Random Cat](https://cataas.com/cat)
+![Random Cat](https://cataas.com/cat?message=Please%20give%20a%20star!&width=300&height=300)
 
-please give it a ⭐!
+please consider giving it a ⭐!
 
 #  Machine Learning Models Repository
 
