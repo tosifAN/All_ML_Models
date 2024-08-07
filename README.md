@@ -38,6 +38,14 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 - Gaussian Mixture Models (GMM)([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): Models data as a mixture of multiple Gaussian distributions.
 - K-Means Clustering([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): Partitions data into k clusters by minimizing the variance within each cluster.
 - Mean Shift Clustering([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)): A non-parametric clustering technique that shifts data points towards the mode of the distribution.
+- DBSCAN ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Clustering)) - A density-based clustering algorithm that can find arbitrarily shaped clusters.
+- ARIMA ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - A time series forecasting model that combines autoregression and moving average components.
+- SARIMA ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - An extension of ARIMA that supports seasonal data patterns.
+- Prophet ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - A time series forecasting model developed by Facebook that handles seasonality and holidays.
+- RNN ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - Recurrent Neural Networks used for sequential data.
+- LSTM ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - Long Short-Term Memory networks that address the vanishing gradient problem in RNNs.
+- GRU ([Link to Folder](https://github.com/tosifAN/All_ML_Models/tree/main/Time_Series)) - Gated Recurrent Units, an alternative to LSTMs with a simpler architecture.
+
 
 ##  Models In Progress
 
@@ -60,14 +68,11 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 - Hierarchical Models
 - Dynamic Time Warping (DTW)
 - Hierarchical Clustering
-- Mean Shift Clustering
-- DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 - Agglomerative Clustering
 - Self-Organizing Maps (SOM)
 - Isolation Forest
 - One-Class SVM
 - Anomaly Detection Models
-- Time Series Models (ARIMA, SARIMA, Exponential Smoothing)
 - Hidden Markov Models (HMM) for Time Series
 - Gaussian Process Regression
 - Bayesian Networks
