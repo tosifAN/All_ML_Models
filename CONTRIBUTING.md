@@ -15,7 +15,7 @@ Clone the forked repository to your local machine using the following command:
 Make the necessary changes to the codebase. Ensure your code follows the repository's style and guidelines.
 
 
-6. Commit Your Changes 💬
+4. Commit Your Changes 💬
 Commit your changes with a descriptive commit message:
 
    ```bash
@@ -23,13 +23,13 @@ Commit your changes with a descriptive commit message:
      git commit -m "Add/Updated model_name"
 
 
-7. Push to Your Fork 🚀
+5. Push to Your Fork 🚀
 Push your changes to your forked repository:
 
     ```bash
       git push
 
-8. Create a Pull Request 🔄
+6. Create a Pull Request 🔄
 Go to the original repository on GitHub and create a pull request from your forked repository. Provide a clear description of your changes and any additional context that may be helpful.
 
 
