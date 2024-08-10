@@ -8,7 +8,7 @@
 
 #  Machine Learning Models Repository
 
-Welcome to the Machine Learning Models Repository! This repository contains various machine learning models and their code. Below is the list of models along with their completion status.
+Welcome to the Machine Learning Models Repository! This repository contains various ml codes. Below is the list of models along with their completion status.
 
 ##  Table of Contents
 - [Completed Models](#-completed-models)
