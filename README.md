@@ -8,13 +8,12 @@
 
 #  Machine Learning Models Repository
 
-Welcome to the Machine Learning Models Repository! This repository contains various machine learning models and their code. Below is the list of models along with their completion status.
+Welcome to the Machine Learning Models Repository! This repository contains various ml codes. Below is the list of models along with their completion status.
 
 ##  Table of Contents
 - [Completed Models](#-completed-models)
 - [Models In Progress](#-models-in-progress)
 - [Installation](#-installation)
-- [Usage](#-usage)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -82,10 +81,9 @@ Welcome to the Machine Learning Models Repository! This repository contains vari
 
 ##  Installation
 
-**Refer to individual model folders for specific installation requirements.** 
-
-##  Usage
-Instructions on how to use each model will be provided in the respective model folders. Please refer to the README files within each folder for detailed usage.
+**Download the dataset using the link provided at the top of each notebook.** 
+**Place the dataset in the `datasets` folder.**
+**Run each notebook individually.**
 
 ##  Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md file for more information on how to contribute.
