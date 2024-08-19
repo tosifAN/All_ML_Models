@@ -3,7 +3,7 @@
 ![Random Cat](https://cataas.com/cat?message=Please%20give%20a%20star!&width=900&height=300)
 
 <p align="center">
-  <strong><em>Please consider giving it a ⭐!</em></strong>
+  <strong><em>Please consider giving it a little ⭐!</em></strong>
 </p>
 
 #  Machine Learning Models Repository
